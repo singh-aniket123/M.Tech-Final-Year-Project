@@ -61,8 +61,8 @@ Features include TP2, TP3, H1, DV pressure, Reservoirs, Motor Current and Oil Te
 
 ## Publications
 
-- *Explaining Condition-Based Maintenance for Metro Trains Using Ensemble ML with XAI and Hybrid Deep Learning Models* – 2025 Global Conference in Emerging Technology (GINOTECH), Pune, May 2025.
-- *A Review on Predicting Failure in Industrial Machines: its Methods, Challenges and Future Direction* – 2025 1st International Conference on AIML-Applications for Engineering & Technology (ICAET), Pune, Jan 2025.
+- *Explaining Condition-Based Maintenance for Metro Trains Using Ensemble ML with XAI and Hybrid Deep Learning Models* – 2025 Global Conference in Emerging Technology (GINOTECH), Pune, May 2025. (https://ieeexplore.ieee.org/document/11076995 )
+- *A Review on Predicting Failure in Industrial Machines: its Methods, Challenges and Future Direction* – 2025 1st International Conference on AIML-Applications for Engineering & Technology (ICAET), Pune, Jan 2025. (https://ieeexplore.ieee.org/document/10932305 )
 
 ## Tech Stack
 
