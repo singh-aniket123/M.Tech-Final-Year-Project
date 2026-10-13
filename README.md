@@ -52,11 +52,11 @@ Features include TP2, TP3, H1, DV pressure, Reservoirs, Motor Current and Oil Te
     ├── Untitled0.ipynb                # Data loading, exploration & preprocessing (MetroPT-3)
     ├── Project_classification.ipynb   # Ensemble failure classification + SHAP/LIME
     ├── Project_Regression.ipynb       # Ensemble RUL regression + SHAP/LIME
-    ├── CNN_model.ipynb                # CNN model for RUL
-    ├── LSTM_model.ipynb               # LSTM model for RUL
-    ├── GRU_Model.ipynb                # GRU model for RUL
-    ├── TCN_model.ipynb                # TCN model for RUL
-    └── Hybrid_model.ipynb             # Hybrid TCN-GRU model for RUL
+    ├── CNN_model.ipynb                # CNN model for Classification and RUL
+    ├── LSTM_model.ipynb               # LSTM model for Classification and RUL
+    ├── GRU_Model.ipynb                # GRU model for Classification and RUL
+    ├── TCN_model.ipynb                # TCN model for Classification and RUL
+    └── Hybrid_model.ipynb             # Hybrid TCN-GRU model for Classification and RUL
 ```
 
 ## Publications
